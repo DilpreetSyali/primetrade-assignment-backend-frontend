@@ -1,0 +1,6 @@
+[dotenv@17.3.1] injecting env (4) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+✅ MongoDB connected
+✅ Server running on http://localhost:5000
+GET / 200 2.267 ms - 211
+POST /api/v1/auth/register 201 124.002 ms - 338
+POST /api/v1/auth/login 200 90.178 ms - 331
