@@ -1,0 +1,25 @@
+Momentum API Execution Logs
+============================
+
+Server Startup:
+MongoDB connected
+Server running on http://localhost:5000
+
+Test Cases Executed:
+
+1. POST /api/v1/auth/register
+   Status: 201 Created
+
+2. POST /api/v1/auth/login
+   Status: 200 OK
+
+3. POST /api/v1/tasks
+   Status: 201 Created
+
+4. GET /api/v1/tasks
+   Status: 200 OK
+
+Security:
+- JWT token validated
+- Protected routes enforced
+- Validation middleware active
