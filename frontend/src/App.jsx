@@ -40,7 +40,7 @@ function getStoredAuth() {
 
                                                                                     return (
                                                                                         <div style={{ fontFamily: "system-ui", maxWidth: 900, margin: "40px auto", padding: 16 }}>
-                                                                                              <h1 style={{ marginBottom: 6 }}>PrimeTrade Assignment</h1>
+                                                                                              <h1 style={{ marginBottom: 6 }}>Momentum</h1>
                                                                                                     <p style={{ marginTop: 0, color: "#444" }}>
                                                                                                             Auth (JWT) + Role-based access + Tasks CRUD + Simple React UI
                                                                                                                   </p>
